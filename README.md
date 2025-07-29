@@ -15,7 +15,7 @@ My journey in the technology world has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/CarsonOsborn23/Active-Directory/tree/main">Active Directory Lab</a>|
 
 
 ## Tools
@@ -43,4 +43,4 @@ My journey in the technology world has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/CarsonOsborn23/Active-Directory/tree/main">Active Directory Lab</a>
