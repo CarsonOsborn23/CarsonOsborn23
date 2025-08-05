@@ -22,6 +22,8 @@ My journey in the technology world has led me to develop a passion for cybersecu
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
+![Windows Server](https://img.icons8.com/color/48/windows-server.png)
+
 
 ### Endpoint
 <div>
