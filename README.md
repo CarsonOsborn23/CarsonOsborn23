@@ -6,7 +6,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in the technology world has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. So this Project will help me get a grasp of tools used in the cybersecurity world.
+My journey in the technology world has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. But for the time being, I would like to start at a help desk position to gain valuable experience and lessons.
 
 ## Skills
 
@@ -16,19 +16,28 @@ My journey in the technology world has led me to develop a passion for cybersecu
 
 
 ## Tools
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/-Atomic_Red_Team-E62A4F?style=for-the-badge&logo=flask&logoColor=white" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/-Hydra-400080?style=for-the-badge&logo=gnubash&logoColor=white" />
+</div>
 
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
-![Windows Server](https://img.icons8.com/color/48/windows-server.png)
-
-
-### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
+
 
 ### SIEM
 <div>
