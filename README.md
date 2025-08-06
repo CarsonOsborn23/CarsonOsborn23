@@ -45,9 +45,7 @@ My journey in the technology world has led me to develop a passion for cybersecu
 </div>
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+
 
 ## Projects
 - <a href="https://github.com/CarsonOsborn23/Active-Directory/tree/main">Active Directory Lab</a>
